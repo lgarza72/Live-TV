@@ -11,11 +11,10 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 https://srregio.online/10326/redirect.php?canal=aztecauno&key=srregio.net
 
 #EXTINF:-1,Azteca 7
-#https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
-http://38.49.128.38:8000/play/a0la/index.m3u8
+https://srregio.online/php/tele_m3u.php?canal=azteca7&u=regio36&exp=1794589072&sig=48fc78d0d903a7ae1b55dcc3afeb5dab86614eaf2b236e5ecee1b0e0e72769c4&f=.m3u8
 
 #EXTINF:-1,Canal 5
-http://38.49.128.38:8000/play/a0n6/index.m3u8
+https://srregio.online/php/tele_m3u.php?canal=canal5&u=regio36&exp=1794589072&sig=663f543e86158db97442002db9a63a43166453d308a49985230d2e731a2a7c40&f=.m3u8
 
 #EXTINF:-1,ADN 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
